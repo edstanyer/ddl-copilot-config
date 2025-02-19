@@ -62,13 +62,14 @@
 | 2               | Alerts driver when camera is within long range    |
 
 
+
 <img src="image-1.png" alt="Speed alert threshold" width="10%" height="10%">
 ---
 
 
 ## Notes On `Turn Now Distance`
 
-<p> This is an integer value which represents a geographic ground distance in imperial yards.
+<p> This is an integer value which represents a geographic ground distance in imperial yards.</p>
 
 <img src="image.png" alt="alt text" width="10%" height="10%">
 
